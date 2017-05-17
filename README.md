@@ -7,4 +7,4 @@ the digital image processing books by W. Burger & M. J. Burge
 Main repository: [imagingbook-public](https://github.com/imagingbook/imagingbook-public)
 
 
-Local Javadoc: https://imagingbook.github.io/imagingbook-plugins-de2/javadoc/
+Javadoc: https://imagingbook.github.io/imagingbook-plugins-de2/javadoc/
